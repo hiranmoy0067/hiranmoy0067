@@ -4,7 +4,7 @@
 
 <p align="center"><img src="https://github.com/soo-more/hiranmoy0067/blob/main/script/keyboard.gif" alt="Hiru "> <br>
 
-[![Facebook](https://img.shields.io/badge/-@Hiru Op-red?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/shruti.mondal.9847867)](https://www.facebook.com/shruti.mondal.9847867)
+[![Facebook](https://img.shields.io/badge/-@HiruOp-red?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/shruti.mondal.9847867)](https://www.facebook.com/shruti.mondal.9847867)
 
 
 - 👋 Hi, I’m @hiranmoy0067
