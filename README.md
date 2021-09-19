@@ -1,4 +1,27 @@
 # Hi Folks,I am Hiru <img src=https://github.com/soo-more/hiranmoy0067/blob/main/script/hi.gif width="33px" alt="hi">
+  
+- [x] python
+  ```python
+  #!usr/bin/python
+  #-*-coding: utf-8-*-
+  
+  print ("Hello World...!")
+  ```
+- [x] php
+  ```php
+
+  <!DOCTYPE html>
+  <html>
+  <body>
+
+  <?php
+  echo "Hello World...!";
+  ?>
+
+  </body>
+  </html>
+
+  ```
 
 <p align="center"><img src="https://github.com/soo-more/hiranmoy0067/blob/main/script/drag.gif" alt="Hiru "> 
 
