@@ -2,7 +2,9 @@
 
 <p align="center"><img src="https://github.com/soo-more/hiranmoy0067/blob/main/script/drag.gif" alt="Hiru "> 
 
-<p align="center"><img src="https://github.com/soo-more/hiranmoy0067/blob/main/script/keyboard.gif" alt="Hiru ">
+<p align="center"><img src="https://github.com/soo-more/hiranmoy0067/blob/main/script/keyboard.gif" alt="Hiru "> <br>
+
+[![Facebook](https://img.shields.io/badge/-@Hiru op?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/shruti.mondal.9847867https://www.facebook.com/shruti.mondal.9847867)
 
 
 
