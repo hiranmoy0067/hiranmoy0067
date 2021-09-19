@@ -9,9 +9,7 @@
 [![Telegram](https://img.shields.io/badge/-Tlgram-06adff?style=flat&logo=Telegram&logoColor=white&link=https://t.me/hiru_ajao)](ttps://t.me/hiru_ajao)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=soo-more&repo=soo-more&theme=vision-friendly-dark)](https://github.com/soo-more/hiranmoy0067) <br>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=soo-more&repo=hiranmoy0067&theme=vision-friendly-dark)](https://github.com/soo-more/hiranmoy0067)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=soo-more&repo=hiranmoy0067&theme=vision-friendly-dark)](https://github.com/soo-more/hiranmoy0067) <br>
 
 - 👀 I’m interested in ...hacking
 - 🌱 I’m currently learning ...
