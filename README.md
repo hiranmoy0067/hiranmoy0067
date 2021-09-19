@@ -7,6 +7,8 @@
 [![Facebook](https://img.shields.io/badge/-@Hiru%20Op-red?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/shruti.mondal.9847867]https://www.facebook.com/shruti.mondal.9847867)
 
 
+[![Facebook](https://img.shields.io/badge/-@majidtdeni-blue?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/deni6660)](https://www.facebook.com/deni6660)
+
 
 - 👋 Hi, I’m @hiranmoy0067
 - 👀 I’m interested in ...hacking
