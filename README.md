@@ -1,5 +1,5 @@
 # Hi, Folks ❤️ 
-<p align=center> <img src=https://github.com/soo-more/hiranmoy0067/blob/main/script/dragon.gif width="150" height="150" /> <br>
+<p align=center> <img src=https://github.com/soo-more/hiranmoy0067/blob/main/script/dragon.gif width="200" height="150" /> <br>
 
 - 👋 Hi, I’m @hiranmoy0067
 - 👀 I’m interested in ...hacking
