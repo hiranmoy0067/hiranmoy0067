@@ -19,6 +19,9 @@
 <p align=center> <img src=https://github.com/soo-more/OP/blob/main/script/blue_boy_typing_nothought.gif
 alt=hiru hight="150" width="150"/> </p> <br>
 
+![Hiru's GitHub stats](https://github-readme-stats.vercel.app/api?username=soo-more&show_icons=true&theme=radical)
+
+
 - 👀 I’m interested in ...hacking
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
