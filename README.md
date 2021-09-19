@@ -1,6 +1,6 @@
 # Hi Folks,I am Hiru <img src=https://github.com/soo-more/hiranmoy0067/blob/main/script/hi.gif width="28px" alt="hi">
 
-<p align="center"><img src="https://github.com/soo-more/hiranmoy0067/blob/main/script/drag.gif width="350" height="120" /> <br>
+<p align="center"><img src="https://github.com/soo-more/hiranmoy0067/blob/main/script/drag.gif" alt="Hiru "> 
 
 <p align=center> <img src=https://github.com/soo-more/hiranmoy0067/blob/main/script/dragon.gif width="350" height="120" /> <br>
 
