@@ -12,8 +12,11 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=soo-more&repo=welcome&theme=vision-friendly-dark)](https://github.com/soo-more/welcome) <br>
 
 ### Hello world, from termux user! <img src=https://github.com/soo-more/hiranmoy0067/blob/main/script/hi.gif width="35px" alt="hi"> <br>
-
+ 
 <p align=center> <img src=https://komarev.com/ghpvc/?username=soo-more alt=hiru /> </p> <br>
+
+<p align=center> <img src=https://github.com/soo-more/OP/blob/main/script/blue_boy_typing_nothought.gif
+alt=hiru /> </p> <br>
 
 - 👀 I’m interested in ...hacking
 - 🌱 I’m currently learning ...
