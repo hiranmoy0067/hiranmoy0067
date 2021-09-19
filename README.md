@@ -1,4 +1,4 @@
-# Hi Folks,I am Hiru <img src=https://github.com/soo-more/hiranmoy0067/blob/main/script/hi.gif width="28px" alt="hi">
+# Hi Folks,I am Hiru <img src=https://github.com/soo-more/hiranmoy0067/blob/main/script/hi.gif width="30px" alt="hi">
 
 <p align="center"><img src="https://github.com/soo-more/hiranmoy0067/blob/main/script/drag.gif" alt="Hiru "> 
 
