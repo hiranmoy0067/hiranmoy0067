@@ -19,7 +19,8 @@
 <p align=center> <img src=https://github.com/soo-more/OP/blob/main/script/blue_boy_typing_nothought.gif
 alt=hiru hight="150" width="150"/> </p> <br>
 
-![Hiru's GitHub stats](https://github-readme-stats.vercel.app/api?username=soo-more&show_icons=true&theme=synthwave)
+![Hiru's GitHub stats](https://github-readme-stats.vercel.app/api?username=soo-more&show_icons=true&theme=synthwave) <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soo-more)](https://github.com/soo-more/github-readme-stats)
 
 
 - 👀 I’m interested in ...hacking
