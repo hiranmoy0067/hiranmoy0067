@@ -22,12 +22,11 @@ alt=hiru hight="150" width="150"/> </p> <br>
 ![Hiru's GitHub stats](https://github-readme-stats.vercel.app/api?username=soo-more&show_icons=true&theme=synthwave) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soo-more&layout=compact)](https://github.com/soo-more/github-readme-stats)
 
+### <p align=center;color=#c10202c1>THANKS FOR
 
-- 👀 I’m interested in ...hacking
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+WATCHING ME
 
+😊<p>
 <!---
 hiranmoy0067/hiranmoy0067 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
