@@ -16,7 +16,7 @@
 <p align=center> <img src=https://komarev.com/ghpvc/?username=soo-more alt=hiru /> </p> <br>
 
 <p align=center> <img src=https://github.com/soo-more/OP/blob/main/script/blue_boy_typing_nothought.gif
-alt=hiru /> </p> <br>
+alt=hiru hight="150" width="150"/> </p> <br>
 
 - 👀 I’m interested in ...hacking
 - 🌱 I’m currently learning ...
