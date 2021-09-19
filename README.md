@@ -22,7 +22,7 @@ alt=hiru hight="150" width="150"/> </p> <br>
 ![Hiru's GitHub stats](https://github-readme-stats.vercel.app/api?username=soo-more&show_icons=true&theme=synthwave) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soo-more&layout=compact)](https://github.com/soo-more/github-readme-stats)
 
-### <p align=center;color=#c10202c> THANKS FOR <br>
+### <p align=center;color=c10202c> THANKS FOR <br>
 
 WATCHING ME<br>
 
