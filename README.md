@@ -11,6 +11,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=soo-more&repo=soo-more&theme=vision-friendly-dark)](https://github.com/soo-more/hiranmoy0067) <br>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=majidtdeni666&repo=majidtdeni666&theme=vision-friendly-dark)](https://github.com/majidtdeni666/majidtdeni666)
+
 - 👀 I’m interested in ...hacking
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
