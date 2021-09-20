@@ -32,7 +32,7 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-06adff?style=flat&logo=Telegram&logoColor=white&link=https://t.me/hiru_ajao)](https://t.me/hiru_ajao)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=soo-more&repo=Hiranmoy&theme=vision-friendly-dark)](https://github.com/soo-more/Hiranmoy) <br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=soo-more&repo=welcome&theme=vision-friendly-dark)](https://github.com/soo-more/Hiranmoy) <br>
 
 ### Hello world, from termux user! <img src=https://github.com/soo-more/hiranmoy0067/blob/main/script/hi.gif width="35px" alt="hi"> <br> 
 <br>
