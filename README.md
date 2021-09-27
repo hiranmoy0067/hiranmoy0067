@@ -47,7 +47,7 @@ alt=hiru hight="150" width="150"/> </p> <br>
 
 
 ### Git Clone
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=soo-more&repo=DRAGON&theme=vision-friendly-dark)](https://github.com/soo-more/DRAGON) <br>
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=soo-more&repo=H-BOMB&theme=vision-friendly-dark)](https://github.com/soo-more/H-BOMB) <br>
 
 
